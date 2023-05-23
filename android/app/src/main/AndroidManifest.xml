@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.appcicd">
+    package="dev.rodsandbox.appcicd">
    <application
         android:label="appcicd"
         android:name="${applicationName}"
