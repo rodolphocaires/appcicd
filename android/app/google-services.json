@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "785611420111",
+    "project_id": "appcicd-515dc",
+    "storage_bucket": "appcicd-515dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785611420111:android:bafdd8dc0719cae930e2ba",
+        "android_client_info": {
+          "package_name": "com.example.appcicd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785611420111-5eq2v2fdla8t41r45l90s3o2u5qu7og1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDi70hZpSrGRtDq1eha4e-HPGVdk6TQvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785611420111-5eq2v2fdla8t41r45l90s3o2u5qu7og1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785611420111-hl0bvklh2uvi1jhrmm6i4q5lb79dd1ha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.rodsandbox.appcicd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
